@@ -1,7 +1,7 @@
 <h2>Hi, I'm Jason Jerry! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
-<a href="https://twitter.com">
+<a href="https://twitter.com/J_S_N_tweets">
   <img align="left" alt="Jason Jerry| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/jasonjerry.me/">
