@@ -14,7 +14,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm a 21 years old Self-taught developer, technical support engineer from India.
+### I'm a 21 years old Self-taught developer, Full stack developer from India.
 
 <br/>
 
